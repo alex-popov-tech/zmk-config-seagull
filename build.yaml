@@ -16,9 +16,8 @@
 #     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
 #     artifact-name: corne_left_with_logging
 #
----
 include:
   - board: nrfmicro_13
-    shield: seagull nice_oled
+    shield: seagull nice_view_adapter nice_oled
   - board: nrfmicro_13
     shield: settings_reset
