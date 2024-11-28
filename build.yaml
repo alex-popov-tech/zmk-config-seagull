@@ -19,6 +19,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: seagull nice_view_adapter nice_view
+    shield: seagull nice_oled
   - board: nrfmicro_13
     shield: settings_reset
