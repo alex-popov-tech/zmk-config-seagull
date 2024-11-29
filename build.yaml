@@ -18,6 +18,6 @@
 #
 include:
   - board: nrfmicro_13
-    shield: seagull nice_view_adapter nice_oled
+    shield: seagull nice_view_adapter nice_view_gem
   - board: nrfmicro_13
     shield: settings_reset
