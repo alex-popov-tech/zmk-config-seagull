@@ -19,7 +19,7 @@
         pwd: pwd {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LS(A) &kp E &kp L &kp L &kp O>;
+            bindings = <&kp S &kp X &kp N &kp LS(N) &kp O &kp Y &kp LS(A) &kp LS(P) &kp HASH &kp J &kp N9 &kp N5 &kp LS(G) &kp P &kp STAR &kp LS(X)>;
             label = "PWD";
         };
     };
