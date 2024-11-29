@@ -30,10 +30,10 @@
         layer_numpad {
             display-name = "Numpad";
             bindings = <
-&kp F9            &kp F10         &kp F11     &kp F12
-&kp F5            &kp F6          &kp F7      &kp F8
-&kp F1            &kp F2          &kp F3      &kp F4   &mo BLUETOOTH
-&kp K_PLAY_PAUSE  &kp K_PREVIOUS  &kp K_NEXT  &trans
+&kp F9            &kp F10     &kp F11     &kp F12
+&kp F5            &kp F6      &kp F7      &kp F8
+&kp F1            &kp F2      &kp F3      &kp F4   &mo BLUETOOTH
+&kp C_PLAY_PAUSE  &kp C_PREV  &kp C_NEXT  &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
